@@ -23,8 +23,8 @@
 #### 📦 practice_streamlit
 #### ├── 📄 app.py            //Streamlit 메인 코드
 #### ├── 📂 images            // 기본 이미지 (로컬 저장)
-### ├── 📄 requirements.txt   // 필요한 라이브러리 목록
-### └── 📄 README.md         // 프로젝트 설명서
+####  ├── 📄 requirements.txt   // 필요한 라이브러리 목록
+#### └── 📄 README.md         // 프로젝트 설명서
 
 # 🪛 사용한 기술
 
